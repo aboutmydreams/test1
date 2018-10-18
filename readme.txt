@@ -1,7 +1,1 @@
-i am learn git and now i make as test
-
-
-
-
-
-
+i am learning git and now i make as test
